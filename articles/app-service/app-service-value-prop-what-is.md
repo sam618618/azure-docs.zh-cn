@@ -21,7 +21,7 @@ ms.openlocfilehash: 042da7ac46fd20bd0e9af33f449f8ea4a6a42089
 
 
 ---
-# <a name="what-is-azure-app-service"></a>什么是 Azure 应用服务？
+# <a name="what-is-azure-app-service"></a>什么是 Azure 应用服务？11111
 *应用服务* 是 Microsoft Azure 的 [平台即服务](https://en.wikipedia.org/wiki/Platform_as_a_service) (PaaS) 产品。 为任何平台或设备创建 Web 应用和移动应用。 将应用与 SaaS 解决方案集成、与本地应用程序进行连接，以及实现业务流程的自动化。 Azure 在完全托管的虚拟机 (VM) 上运行应用程序，由用户选择共享的 VM 资源或专用 VM。
 
 应用服务所包括的 Web 功能和移动功能是以前作为 Azure 网站和 Azure 移动服务单独交付的。 它还包括各种新功能，可以实现业务流程的自动化，并可托管云 API。 应用服务是一项集成服务，允许用户将各种组件（网站、移动应用后端、RESTful API 和业务流程）组合到单个解决方案中。
